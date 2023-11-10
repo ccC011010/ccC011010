@@ -7,7 +7,7 @@
 <!---
 ccC011010/ccC011010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->nowadays historic micro-vp
+--->nowadays historic mvp
 https://docs.google.com/document/d/1KrwJz1rQWiiAXaSgh6ac2xq0ZT5XruZGGwGAl4_ukho/edit?usp=drivesdk
 
 
